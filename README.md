@@ -1,7 +1,11 @@
-🛒 Walmart Sales Data Analysis using Python & MySQL
-📌 Project Overview
+# 🛒 Walmart Sales Data Analysis using Python & MySQL
 
-This project is an end-to-end Data Analytics project that analyzes Walmart sales data using Python, Pandas, and MySQL. The objective is to clean, transform, load, and analyze retail sales data to uncover business insights and answer real-world analytical questions.
+## 📊 Project Pipeline
 
-The project demonstrates the complete data analytics workflow, including data extraction, preprocessing, database integration, SQL analysis, and visualization.
-<img src="Analysispipeline ">
+<p align="center">
+  <img src="./Analysispipeline.png" alt="Project Pipeline" width="1000">
+</p>
+
+## 📌 Project Overview
+
+This project is an end-to-end Data Analytics project that analyzes Walmart sales data using Python and MySQL...
